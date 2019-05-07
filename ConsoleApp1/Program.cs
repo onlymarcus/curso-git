@@ -12,6 +12,7 @@ namespace ConsoleApp1
             Console.WriteLine("Como você está hoje?");
             Console.WriteLine("Tenha um bom dia!");
             Console.WriteLine();
+            Console.WriteLine("BOM DIA JULIO");
 
 
         }
